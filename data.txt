@@ -1,0 +1,3 @@
+Intern [employee=Employee [id=1, fullname=Nguyen Van A, birthday=12-31-2005, phone=0123456789, email=nguyenvana@gmail.com, employee_type=intern], Major=Computer Science, Semester=6, University_name=VKU]
+Intern [employee=Employee [id=2, fullname=Nguyen Thi A, birthday=10-2-2003, phone=0123456789, email=nguyenthia@gmail.com, employee_type=intern], Major=Buisiness Addminstration, Semester=8, University_name=DUE]
+Experience [employee=Employee [id=3, fullname=Nguyen Van B, birthday=6-6-2004, phone=0123456789, email=nguyenvanb@gmail.com, employee_type=experience], ExplnYear=1, ProSkill=Java]
